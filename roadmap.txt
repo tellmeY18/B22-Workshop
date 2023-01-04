@@ -1,0 +1,6 @@
+1. Start With Intro To FOSS / History (<10 mins)
+2. Telegram Channel for Updates 
+3. Transfer Arch ISO, Oracle Virtual Box, Putty (Flash Drive / HDD / LAN SERVER/ Internet)
+4. Install Arch Linux (Virtual Box)
+
+
