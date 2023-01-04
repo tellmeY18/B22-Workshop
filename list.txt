@@ -1,0 +1,16 @@
+    6  clear
+    7* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime
+    8* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg
+    9* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg,python
+   10* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg,python,perl,qemu-guest-agent,grub
+   11* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg,python,perl,qemu-guest-agent,grub --verbose
+   12* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg,python,perl,qemu-guest-agent,grub --verbosepkglist
+   13  history
+   14* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg,python,perl,qemu-guest-agent,grub,systemd
+   15* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg,python,perl,qemu-guest-agent,grub,systemd --ignoregroup python xorg
+   16* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg,python,perl,qemu-guest-agent,grub,systemd --ignoregroup python,xorg
+   17* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg,python,perl,qemu-guest-agent,grub,systemd,bind,broadcom-wl,hyperv,openssl,smbclient
+   18* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg,python,perl,qemu-guest-agent,grub,systemd,bind,broadcom-wl,hyperv,openssl,smbclient,linux-firmware-marvell,libx11,mkinitcpio,xorg-xprop
+   19* sudo pacman -Syu archinstall --ignore binutils,linux,vim,vim-runtime,linux-firmware,xorg,python,perl,qemu-guest-agent,grub,systemd,bind,broadcom-wl,hyperv,openssl,smbclient,linux-firmware-marvell,libx11,mkinitcpio,xorg-xprop,wpa_supplicant
+   20  history
+   21  clear
