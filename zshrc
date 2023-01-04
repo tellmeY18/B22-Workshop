@@ -53,7 +53,7 @@ if [[ "${terminfo[kcud1]}" != "" ]]; then
 fi
 
 #Enables autosuggestions
-source ~/.zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 
 # Edit line in vim with ctrl-e:
@@ -107,4 +107,4 @@ PERL_MM_OPT="INSTALL_BASE=/home/c3po/perl5"; export PERL_MM_OPT;
 #Tmux for SSH
 #function ssh () {/usr/bin/ssh -t "$@" "tmux attach || tmux new";}
 
-
+export TERM=xterm-256color

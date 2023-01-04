@@ -2,5 +2,8 @@
 2. Telegram Channel for Updates 
 3. Transfer Arch ISO, Oracle Virtual Box, Putty (Flash Drive / HDD / LAN SERVER/ Internet)
 4. Install Arch Linux (Virtual Box)
-
+5. setup zsh 
+6. install git
+7. git clone dotfiles for zsh
+8. 
 
